@@ -1,6 +1,6 @@
 # Evolut
 # Educational purposes only
-Permet de recupére des informations sur un compte twitter avec la fonctionne mot de passe oublié
+Permet de recupére des informations sur un compte twitter avec mot de passe oublié
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
