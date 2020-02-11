@@ -1,6 +1,6 @@
 # Evolut
 # Educational purposes only
-Permet de recupére des informations sur un compte twitter (email et numéro de télephone partiellement) avec mot de passe oublié
+Permet de recupérer des informations sur un compte twitter (email et numéro de télephone partiellement) avec mot de passe oublié
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
