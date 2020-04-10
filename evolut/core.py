@@ -43,7 +43,6 @@ def evolut(account):
         return("Not email or phone")
     try:
         phone = int(info[0].text)
-        phone = str("XX XX XX XX" +phone)
         email = str(info[1].text)
     except:
         email = str(info[0].text)
